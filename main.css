@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+   font-weight: bold;
+  }
+
+.myStyledElement {
+  color: blue;
+  font-size: 35px;
+
+}
